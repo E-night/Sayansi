@@ -11,7 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Scientific research; the new norm
+When COVID-19 broke out in late 2019, the whole research environment was thrown in disarray where thinktanks wrestled against time to find vaccine for the novel virus. The whole world was frenzied clutching at straws with bated breaths waiting for scientists to miraculously deliver the magic potion to quell the aggressive affliction. 
 ## Header 2
 ### Header 3
 
