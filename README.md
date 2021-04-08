@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+## The need to plug in Africa to the rest of the universe in matters science
 
-You can use the [editor on GitHub](https://github.com/E-night/Sayansi/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+In Africa, and Kenya specifically; Scientific research is not as oftenly prioritized as they do to other subjects. Now before you go all STEM efforts on me, I recognise the fact that individuals and organisations have tried to push this agenda forward especially to boost the participation of African women in the general atmosphere. My concern however is that these efforts should not be just be applied topically - teaching 14-18 year olds the value of science and the need to pay more attention to research is not as successful as dealing with this issue right from when these babes join kindergarten! I get the fact that science requires infrastructure that might be in serious shortage in some Kenyan communities and maybe, maybe this makes other non-research centered subjects to be magified while the latter is treated with a slight lukewarm shoulder. Matbe we can stop in our tracks a bit and think about how we can utilize the meagre infrastructure at our disposal for starters. Africa is the cradle of mankind and this fact alone already gives us the upper hand as the origin of knowledge, technology and creativity. Teaching kindergarten and lower primary pupils the value of thinking outside the box - boxes of rigidity, dependency and timidity in solving our own problems of food insecurity, illiteracy and poor infrastructer will result into a crop of serious thinkers and problem solvers that Africa is in dire need of. In 2017, the Kenya Institute of Curriculum Development(KICD) developed the Competency Based Curriculum (https://kenyayote.com/what-is-competency-based-curriculum-cbc-in-kenya-detailed-illustration/) to foster and encourage creativity, critical thinking and ingenuity right from square 1.
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -36,3 +32,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![IMG_20210206_124232_582](https://user-images.githubusercontent.com/65661760/114014794-aca2aa00-9871-11eb-9f68-de27e504077a.jpg)
+![IMG_20201031_181330_579](https://user-images.githubusercontent.com/65661760/114014805-af050400-9871-11eb-8f6f-22f6d74d6fd1.jpg)
